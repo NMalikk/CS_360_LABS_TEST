@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">26100029_EmotiLog</string>
+    <string name="emo_1">😊 Happy</string>
+    <string name="emo_2">😢 Sad</string>
+    <string name="emo_3">😡 Angry</string>
+    <string name="emo_4">🙏 Grateful</string>
+    <string name="emo_5">🤩 Excited</string>
+    <string name="emo_6">😴 Tired</string>
+    <string-array name="filter_options">
+        <item>Today</item>
+        <item>Last 7 Days</item>
+        <item>All Time</item>
+    </string-array>
+</resources>
