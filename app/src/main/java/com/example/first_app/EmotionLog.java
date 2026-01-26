@@ -16,5 +16,6 @@ public class EmotionLog {
     public EmotionLog(String emotion, long timestamp) {
         this.emotion = emotion;
         this.timestamp = timestamp;
+        //comment added.
     }
 }
