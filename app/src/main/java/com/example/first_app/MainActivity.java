@@ -85,6 +85,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         Toast.makeText(this, "Database Reset & Seeded!", Toast.LENGTH_SHORT).show();
-        //color = blue
+        //color = green
     }
 }
